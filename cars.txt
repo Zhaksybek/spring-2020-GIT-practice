@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Toyota
 Mazda11
 Honda
 Audi11
 Tesla11
 Zaparojes
+=======
+ToyotaToyotaToyota
+Mazda
+Honda
+AudiAudiAudi
+Tesla
+ZaparojesZaparojesZaparojes
+>>>>>>> 1489e0c27d045468d9b9d1f123ca41a5e63406d5

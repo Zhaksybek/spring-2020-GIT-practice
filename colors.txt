@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 red
 new color11
 blue
@@ -7,5 +8,8 @@ pink
 orange from git
 ***blue from IJ--ygg
 I dont now more colors111
+=======
+
+>>>>>>> 1489e0c27d045468d9b9d1f123ca41a5e63406d5
 
 
