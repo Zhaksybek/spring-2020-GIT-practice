@@ -2,3 +2,4 @@ red
 new color
 blue
 add one more color
+pink
