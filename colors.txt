@@ -1,11 +1,11 @@
 red
-new color
+new color11
 blue
 add one more color
-***yellow from IJ
+***yellow from IJ11
 pink
 orange from git
 ***blue from IJ--ygg
-I dont now more colors
+I dont now more colors111
 
 
