@@ -1,2 +1,4 @@
 red
 new color
+
+add one more color
