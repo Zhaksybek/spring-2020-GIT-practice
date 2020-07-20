@@ -1,12 +1,11 @@
 red
 new color
-#####BLUE from gitHub
 blue
 add one more color
 ***yellow from IJ
 pink
 orange from git
 ***blue from IJ--ygg
+I dont now more colors
 
-###brown from gitHub
 
