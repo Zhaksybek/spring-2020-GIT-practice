@@ -1,7 +1,10 @@
 red
 new color
+#####BLUE from gitHub
 blue
 add one more color
 pink
 orange from git
+
+###brown from gitHub
 
